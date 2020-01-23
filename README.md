@@ -9,3 +9,11 @@ Enter Tickers:
 Bajaj, Yahoo, Googl, MSFT, GE
 ```
 
+# Pip Install libraries
+```
+pip pandas
+pip pandas_datareader
+pip pymongo
+pip yfinance
+```
+
